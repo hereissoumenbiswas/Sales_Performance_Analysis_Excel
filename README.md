@@ -47,3 +47,11 @@ The interactive excel dashboard was built to visualize key performance indicator
 - Improve sales penetration in low-performing regions while strengthening presence in top-performing states.
 
 Note: The Excel file is huge and needs to be downloaded to access the entire analysis and dashboard.
+
+## Author
+
+**Soumen Biswas**
+(Data Science graduate)
+
+- GitHub: (https://github.com/hereissoumenbiswas)
+- LinkedIn: (https://www.linkedin.com/in/hereissoumenbiswas/?isSelfProfile=true)
