@@ -4,7 +4,7 @@
 Analysis of sales performance at the order level using Excel, which includes the visualization of dashboards, sales trends, customer behavior, order fulfillment status, geographical contribution, and sales channel performance.
 
 ## Business Objective
-To evaluate order-level sales data to find patterns, performance gaps, and improvement possibilities.
+To assess order-level sales data in order to identify performance gaps, patterns, and opportunities for improvement.
 
 ## Dataset
 - Order-level sales data (2022)
